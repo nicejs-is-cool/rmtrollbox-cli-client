@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "ansi": "^0.3.1",
-    "blessed": "^0.1.81",
     "chroma-js": "^2.4.2",
     "he": "^1.2.0",
     "neo-blessed": "^0.2.0",
+    "reblessed": "^0.1.84",
     "socket.io-client": "^2.4.0"
   },
   "bin": {

@@ -3,7 +3,7 @@ const ansi = require('ansi')(process.stdout);
 const readline = require('readline');
 const io = require('socket.io-client');
 const chroma = require('chroma-js')
-const blessed = require('blessed')
+const blessed = require('reblessed')
 const util = require('util');
 const he = require('he');
 
